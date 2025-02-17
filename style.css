@@ -20,12 +20,8 @@
     color: #fff;
     text-align: center;
 }
-
 .user-box img {
-    width: 350px;
-    height: 350px;
-    border-radius: 50%;
-    border: 2px solid #6caed5;
+    width: 300px;
 }
 .user-box h1{
     font-weight: bold;
