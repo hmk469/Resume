@@ -51,9 +51,7 @@
     padding-top: 100px;
     text-align: justify;
 }
-.about .col-md-6{
-    padding: 30px;
-}
+
 .profile-img{
     padding: 10px;
     width: 80%;
@@ -74,9 +72,7 @@
 .navbar a:hover{
     color: #04aeec;
 }
-.navbar-brand img{
-    height: 50px;
-}
+
 .nav-bar .bi-list{
     font-size: 35px;
     color: #fff;
@@ -101,6 +97,7 @@
 .timeline {
     position: relative;
     list-style-type: none;
+    width: ;
 }
 
 .timeline:before {
@@ -122,10 +119,13 @@
 }
 
 .timeline li h4 {
+    width: 100%;
+    text-align: justify;
     background: #000;
-    padding: 5px 0 5px 20px;
+    padding: 15px;
     color: #fff;
     font-size: 15px;
+    border-radius: 5px;
 }
 .timeline li::before{
     content: '';
