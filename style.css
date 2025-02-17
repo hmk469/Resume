@@ -4,9 +4,7 @@
     box-sizing: border-box;
 }
 
-#header {
- 
-}
+
 
 .user-box {
     top: 50%;
@@ -40,7 +38,7 @@
 
 
 .about{
-    padding: 30px;
+    
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://thumbs.dreamstime.com/z/creative-cv-template-d-effect-blue-background-vector-art-77544799.jpg");
     background-position: center;
     background-size: cover;
