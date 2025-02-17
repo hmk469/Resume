@@ -49,12 +49,15 @@
 
 .about{
     padding-top: 100px;
-    
+    text-align: justify;
+}
+.about .col-md-6{
+    padding: 30px;
 }
 .profile-img{
     padding: 10px;
-   
-    height: 400px;
+    width: 500px;
+    height: 500px;
 }
 .nav-bar{
     top: 0;
@@ -84,7 +87,8 @@
 .progress{
     border-radius: 16px !important;
     margin-bottom: 10px;
-}.resume {
+}
+.resume {
     padding-top: 50px;
     padding-bottom: 30px;
     background: #f9f9f9;
@@ -196,7 +200,7 @@
 }
 .contact .col-md-4 i {
     padding: 10px;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .contact .btn {
