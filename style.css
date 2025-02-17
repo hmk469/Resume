@@ -87,7 +87,6 @@
 .resume {
     padding-top: 50px;
     padding-bottom: 30px;
-    background: #f9f9f9;
 }
 
 .resume h3 {
@@ -107,8 +106,8 @@
     left: 29px;
     width: 2px;
     height: 100%;
-    background: #555;
-    z-index: 1;
+    background: #01c2ed;
+        z-index: 1;
 }
 
 .timeline li {
@@ -129,7 +128,7 @@
 }
 .timeline li::before{
     content: '';
-    background: #000;
+    background: #01c2ed;
     display: inline-block;
     position: absolute;
     border-radius: 50%;
@@ -185,7 +184,6 @@
 }
 .contact {
     padding-top: 50px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://th.bing.com/th/id/OIP.ZQ7fwlD44oGaXMUMaFeZ-AHaCL?w=2000&h=590&rs=1&pid=ImgDetMain");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -231,7 +229,7 @@
 }
 
 .footer {
-    background: #000;
+    background-color: #000;
     height: 50px;
     margin-top: 50px;
     color: #fff;
